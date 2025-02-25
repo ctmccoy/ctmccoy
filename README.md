@@ -1,4 +1,4 @@
-Welcome to my Cybersecurity Portfolio! This repository showcases my skills, projects, certifications, and experience in cybersecurity. It serves as a central hub for my work, documentation, and learning journey.  I will be publishing programmatic media, such as scripting, applications/programs, data analysis and visualization.
+# THIS IS A WORK IN PROGRESS
 
 ## 📌 About Me
 
