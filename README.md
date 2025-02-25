@@ -1,8 +1,6 @@
 # THIS IS A WORK IN PROGRESS
 
-## 📌 About Me
-
-👋 Hi, I'm Coner, a Cybersecurity Analyst passionate about the cutting edge computing technology, artificial intelligence and machine learning.  I keep up to date with the latest cyberwarfare tactics, techniques and procedures, with a strong analytical curiosity to gather deeper insight into the information security sector.
+### 👋 Hi, I'm Coner, a Cybersecurity Analyst passionate about the cutting edge computing technology, artificial intelligence and machine learning.  I keep up to date with the latest cyberwarfare tactics, techniques and procedures, with a strong analytical curiosity to gather deeper insight into the information security sector.
 
 🔹 Working on furthering my professional cybersecurity developement by completing certifications, practicing programmtic skills and data visualization projects.  Currently learning about artificial intelligence integration into cybersecurity.  I am also focused on learning more aspects of administration and system management such as Windows System Administrator, or RedHat System Administrator.
 
@@ -43,7 +41,7 @@
 
 ## Connect with Me
 📧 Email: [coner.mccoy@gmail.com]  
-💼 LinkedIn: [https://linkedin.com/in/ctmccoy]    
+💼 LinkedIn: [https://linkedin.com/in/ctmccoy]
 
+---
 
-I am a detail oriented, motivated, dynamic professional with a background in broadcast communication technology. I recently completed a bachelor’s degree in Cybersecurity, with a minor in data analysis and programming, equipping me with the latest insights and technical skills to enhance digital safety, protect information, and increase operational efficiency. Adept at integrating media expertise with cybersecurity strategies, I bring a unique perspective to the cybersecurity team's tactics, techniques, and procedures.
