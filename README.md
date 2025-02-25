@@ -35,9 +35,9 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my skills, proj
 ---
 
 ## 📚 Resources & Write-ups
-- **Cybersecurity Blog:** [Your Blog/Medium link]
-- **CTF Write-ups:** [CTF challenges you’ve solved]
-- **CyberSec Podcasts:** [darknetdiaries.com]
+- **Incident Response Plan:** [Incident Response Plan]
+- **MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
+- **CyberSec Podcasts:** [https://darknetdiaries.com]
 
 ---
 
