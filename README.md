@@ -1,9 +1,14 @@
 # THIS IS A WORK IN PROGRESS
 
-### 👋 Hi, I'm Coner, a Cybersecurity Analyst passionate about the cutting edge computing technology, artificial intelligence and machine learning.  I keep up to date with the latest cyberwarfare tactics, techniques and procedures, with a strong analytical curiosity to gather deeper insight into the information security sector.
+### 👋 Hi, I'm Coner, a Cybersecurity Analyst passionate about the cutting edge computing technology and infosec field.  I keep up to date with the latest cyberwarfare tactics, techniques and procedures, with a strong analytical curiosity to gather deeper insight into the information security sector.
 
-🔹 Working on furthering my professional cybersecurity developement by completing certifications, practicing programmtic skills and data visualization projects.  Currently learning about artificial intelligence integration into cybersecurity.  I am also focused on learning more aspects of administration and system management such as Windows System Administrator, or RedHat System Administrator.
+🔹 I recently graduated from Purdue University with a bachelors degree in Cybersecurity - Analysis and Programming.  I am working on furthering my ybersecurity developement by completing certifications, practicing programmtic skills and using the tools and information to further develope necessary skills to defend against cyber threats.
 
+Check out my Automated Cyber Threat Intelligence Feed repository.
+   If you have some IPs your curious about, check out my script "auto"!
+   
+Did you run a wireshark capture and you want further insight into the data?  Try my Pcap Analysis program!
+   
 ### 🔹 **Technical Skills:**
    - **Security Tools:** [Splunk, Wireshark, Nessus, Burp Suite, etc.]
    - **SIEM & Threat Detection:** [Elastic Security, Microsoft Sentinel, Wazuh.]
