@@ -27,10 +27,15 @@ Did you run a wireshark capture and you want further insight into the data?  Try
 
 ## 🔥 Cybersecurity Projects
 
-### 🕵️‍♂️ Threat Hunting & SIEM
+### 🕵️‍♂️ SIEM
 - **Project:** **SOC Simulation**
   - Implemented use cases for **detecting phishing, brute-force attacks, and insider threats**.
   - Created **custom dashboards & correlation rules** for SOC monitoring.
+
+### 🕵️‍♂️ Threat Hunting with Python
+- **Project:** **Python Programming**
+  - Fetch cyber threat intelligence feeds from multiple API's!!
+  - Analyze packet capture files to visualize important data using Python libraries.
 ---
 
 ## 📜 Certifications
