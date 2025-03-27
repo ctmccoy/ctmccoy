@@ -6,12 +6,14 @@
 
 🔹 I recently graduated from Purdue University with a bachelors degree in Cybersecurity - Analysis and Programming.  I am working on furthering my cybersecurity developement by completing certifications, practicing programmtic skills and using security tools to further develope necessary skills to defend against cyber threats.
 
+---
 
 ####      Check out my Automated Cyber Threat Intelligence Feed repository.
 #####         -   If you found some IPs you are curious about, check out my "auto" script!
 ####      Did you run a wireshark capture and you want further insight into the data?  Try my Pcap Analysis program!
 
-   
+---
+
 ### 🔹 **Technical Skills:**
    - **Security Tools:** [Splunk, Wireshark, Nessus, Burp Suite, etc.]
    - **SIEM & Threat Detection:** [Elastic Security, Microsoft Sentinel, Wazuh.]
