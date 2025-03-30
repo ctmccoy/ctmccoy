@@ -1,4 +1,4 @@
-## 👋  Hi, I'm Coner, a Cybersecurity Analyst passionate about cutting-edge computing technology and information security.  I stay up to date with the latest cyberwarfare tactics, techniques, and procedures, driven by an analytical curiosity to gain deeper insight.  I specialize in threat hunting and continuously refine my expertise in security assessment tools to detect, analyze, and mitigate evolving cyber threats.
+## 👋  Hi, I'm Coner, a Cybersecurity Analyst passionate about cutting-edge computing technology and information security.  I stay up to date with the latest cyberwarfare tactics, techniques, and procedures, driven by an analytical curiosity to gain deeper insight.  I am focused on blue team operations and general information assurance practices.  With my newly obtained computer science education, I hope to apply my skills within an information technology depeartment for your organization!
 
 #### I **assess and mitigate cybersecurity risks** to protect organizational operations, enabling secure businesss strategies while upholding the principles of **confidentiality, integrity, and availability (CIA).**
 
