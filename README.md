@@ -15,6 +15,7 @@
 ---
 
 ### 🔹 **Technical Skills:**
+
    - **Security Tools:** [Splunk, Wireshark, Nessus, Burp Suite, etc.]
    - **SIEM & Threat Detection:** [Elastic Security, Microsoft Sentinel, Wazuh.]
    - **Cloud Security:** [AWS Security, Azure Defender.]
@@ -23,6 +24,7 @@
    - **Programming/Scripting:** [Python, Bash, PowerShell.]
 
 ### 🔹 **Data Science Skills:**
+
    - **Data Visualization** [Excel, Power BI, Tableau.]
    - **Statistical Analysis:** [Python, Java, R.]
    - **Database:** [SQL, Microsoft SQL Server Management Studio, Apache Hadoop.]
@@ -30,7 +32,7 @@
 
 ## 🔥 Cybersecurity Projects
 
-### 🕵️‍♂️ SIEM
+### 🛡️ SIEM
 - **Project:** **SOC Simulation**
   - Implemented use cases for **detecting phishing, brute-force attacks, and insider threats**.
   - Created **custom dashboards & correlation rules** for SOC monitoring.
@@ -39,17 +41,21 @@
 - **Project:** **Python Programming**
   - Fetch cyber threat intelligence feeds from multiple API's!!
   - Analyze packet capture files to visualize important data using Python libraries.
+
 ---
 
 ## 📜 Certifications
-- 🏆 - CISCO Network Academy Certification
-- 🏆 - Google Cybersecurity Certification
+
+- 🏆 - CISCO Network Academy Certification [2023]
+- 🏆 - Google Cybersecurity Certification [2024]
+- 🏆 - ArcX Threat Intelligence Analyst Certification [2025]
 
 ---
 
 ## 📚 Resources & Write-ups
-- **Wargames** [https://overthewire.org/wargames/]
-- **MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
-- **CyberSec Podcasts:** [https://darknetdiaries.com]
+
+- 🎮  :**Wargames** [https://overthewire.org/wargames/]
+- 📁  :**MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
+- 🎧  :**CyberSec Podcasts:** [https://darknetdiaries.com]
 
 ---
