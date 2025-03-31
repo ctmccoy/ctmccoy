@@ -8,11 +8,9 @@
 
 ---
 
-# TEST: [Threat Intelligence Feed](https://github.com/ctmccoy/automated-threat-intelligence.git)
+#### Python program to automate threat data: [Automated Threat Intelligence](https://github.com/ctmccoy/automated-threat-intelligence.git)
 
-####      Check out my Automated Cyber Threat Intelligence Feed repository.
-#####         -   If you found some IPs you are curious about, check out my "auto" script!
-####      Did you run a wireshark capture and you want further insight into the data?  Try my Pcap Analysis program!
+#### Java program to aggregate IP data from a CSV file: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
 
 ---
 
