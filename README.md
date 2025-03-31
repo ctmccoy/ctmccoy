@@ -8,6 +8,8 @@
 
 ---
 
+# TEST: [Threat Intelligence Feed](https://github.com/ctmccoy/automated-threat-intelligence.git)
+
 ####      Check out my Automated Cyber Threat Intelligence Feed repository.
 #####         -   If you found some IPs you are curious about, check out my "auto" script!
 ####      Did you run a wireshark capture and you want further insight into the data?  Try my Pcap Analysis program!
