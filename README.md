@@ -8,9 +8,9 @@
 
 ---
 
-#### Python program to automate threat data: [Automated Threat Intelligence](https://github.com/ctmccoy/automated-threat-intelligence.git)
+#### 🐍  Python program to automate threat data: [Automated Threat Intelligence](https://github.com/ctmccoy/automated-threat-intelligence.git)
 
-#### Java program to aggregate IP data from a CSV file: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
+#### ☕  Java program to aggregate IP data from a CSV file: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
 
 ---
 
