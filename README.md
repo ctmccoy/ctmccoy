@@ -1,16 +1,6 @@
-## 👋  Hi, I'm C T! I'm an aspiring security systems professional with a passion for cutting-edge computing technology and information security. I keep up-to-date with the latest cyber warfare tactics, techniques, and procedures, driven by my analytical curiosity to dive deeper into the world of info-sec. My focus is on info-sec development operations, and with my recently obtained computer science education, I’m eager to apply my skills and knowledge in an IT department!
+#### 👋  Hi, I’m C T — an aspiring security systems professional with a strong passion for information security and emerging computing technologies. I stay up to date with the latest cyber warfare tactics, techniques, and procedures, driven by a deep analytical curiosity to explore the ever-evolving world of infosec.
 
-#### I **assess and mitigate cybersecurity risks** to protect organizational operations, enabling secure businesss strategies while upholding the principles of **confidentiality, integrity, and availability (CIA).**
-
----
-
-🔹 I recently graduated from Purdue University with a bachelors degree in Cybersecurity - Analysis and Programming.  I am working on furthering my cybersecurity developement by completing certifications, practicing programmtic skills and using security tools to further develope necessary skills to defend against cyber threats.
-
----
-
-#### 🐍  Python program to automate threat data: [Automated Threat Intelligence](https://github.com/ctmccoy/automated-threat-intelligence.git)
-
-#### ☕  Java program to aggregate IP data from a CSV file: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
+##### 🔹  My focus is on security-focused DevOps and automation, and with a recently earned degree in computer science, I’m eager to apply my skills within an IT or cybersecurity team to help defend and build secure systems.
 
 ---
 
@@ -41,6 +31,9 @@
 - **Project:** **Python Programming**
   - Fetch cyber threat intelligence feeds from multiple API's!!
   - Analyze packet capture files to visualize important data using Python libraries.
+
+   #### 🐍  Python program to automate threat data: [Automated Threat Intelligence](https://github.com/ctmccoy/automated-threat-intelligence.git)
+   #### ☕  Java program to aggregate IP data from a CSV file: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
 
 ---
 
