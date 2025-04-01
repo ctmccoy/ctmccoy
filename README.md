@@ -1,6 +1,6 @@
-#### 👋  Hi, I’m C T — an aspiring security systems professional with a strong passion for information security and emerging computing technologies. I stay up to date with the latest cyber warfare tactics, techniques, and procedures, driven by a deep analytical curiosity to explore the ever-evolving world of infosec.
+#### 👋  Hi, I’m C T — aspiring security systems professional with a passion for information security and emerging technologies. I stay current with the latest cyber warfare tactics, techniques, and procedures, driven by an analytical curiosity to explore the ever-evolving world of cybersecurity.
 
-##### 🔹  My focus is on security-focused DevOps and automation, and with a recently earned degree in computer science, I’m eager to apply my skills within an IT or cybersecurity team to help defend and build secure systems.
+##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an IT or cybersecurity team!
 
 ---
 
