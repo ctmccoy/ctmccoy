@@ -2,6 +2,8 @@
 
 ##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an IT or cybersecurity team!
 
+##### [Check Out My Website](ctmccoy.github.io)
+
 ---
 
 ### 🔹 **Technical Skills:**
@@ -49,7 +51,7 @@
 
 ---
 
-## 📚 Resources & Write-ups
+## 📚 Additional Resources
 
 - 🎮  **Wargames:** [https://overthewire.org/wargames/]
 - 📁  **MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
