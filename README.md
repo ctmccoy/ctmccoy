@@ -51,10 +51,9 @@
 
 ## 📚 Resources & Write-ups
 
-- 🎮  :**Wargames** [https://overthewire.org/wargames/]
-- 📁  :**MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
-- 🎧  :**CyberSec Podcasts:** [https://darknetdiaries.com]
-
-- 🌐  :[**My Website:**](https://www.github.com/ctmccoy/ctmccoy/github.io)
+- 🎮  **Wargames:** [https://overthewire.org/wargames/]
+- 📁  **MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
+- 🎧  **CyberSec Podcasts:** [https://darknetdiaries.com]
+- 🌐  **My Website:** [https://www.github.com/ctmccoy/ctmccoy/github.io]
 
 ---
