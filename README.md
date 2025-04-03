@@ -2,7 +2,7 @@
 
 ##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an IT or cybersecurity team!
 
-##### [Check Out My Website](ctmccoy.github.io)
+##### [Check Out My Website](https://ctmccoy.github.io)
 
 ---
 
