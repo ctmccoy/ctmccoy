@@ -1,11 +1,9 @@
 #### 👋  Hi, I’m C T — aspiring security systems professional with a passion for information security and emerging technologies. I stay current with the latest cyber warfare tactics, techniques, and procedures, driven by an analytical curiosity to explore the ever-evolving world of cybersecurity.
 
 ##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an IT or cybersecurity team!
-
-##### [Check Out My Website](https://ctmccoy.github.io)
-
 ---
-
+---
+---
 ### 🔹 **Technical Skills:**
 
    - **Security Tools:** [Splunk, Wireshark, Nessus, Burp Suite, etc.]
@@ -21,7 +19,7 @@
    - **Statistical Analysis:** [Python, Java, R.]
    - **Database:** [SQL, Microsoft SQL Server Management Studio, Apache Hadoop.]
 ---
-
+---
 ## 🔥 Cybersecurity Projects
 
 ### 🛡️ SIEM
@@ -40,22 +38,21 @@
 ### 📊: Data Visualizations with JAVA
 - **Project:** **Java Programming**
   #### ☕  Java program to visualize traffic data: [Traffic Analysis](https://github.com/ctmccoy/TrafficCaptureAnalysis.git)
-
 ---
-
+---
 ## 📜 Certifications
 
 - 🏆 - CISCO Network Academy Certification [2023]
 - 🏆 - Google Cybersecurity Certification [2024]
 - 🏆 - ArcX Threat Intelligence Analyst Certification [2025]
-
 ---
-
+---
 ## 📚 Additional Resources
 
 - 🎮  **Wargames:** [https://overthewire.org/wargames/]
 - 📁  **MITRE & CVE Database:** [https://cve.mitre.org/cve/search_cve_list.html]
 - 🎧  **CyberSec Podcasts:** [https://darknetdiaries.com]
-- 🌐  **My Website:** [https://www.github.com/ctmccoy/ctmccoy/github.io]
-
+- 🌐  **My Website:** [https://www.github.com/ctmccoy/ctmccoy.github.io]
+---
+---
 ---
