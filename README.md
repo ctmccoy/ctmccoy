@@ -1,6 +1,6 @@
-#### 👋  Hi, I’m C T — aspiring security systems professional with a passion for information security and emerging technologies. I stay current with the latest cyber warfare tactics, techniques, and procedures, driven by an analytical curiosity to explore the ever-evolving world of cybersecurity.
+#### 👋  Hi, I’m Coner, an aspiring security systems professional with two decades experience in the broadcast technology sector.  I am taking my skills of video and network application administration and applying them to cybersecurity.
 
-##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an IT or cybersecurity team!
+##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an SOC team!
 ---
 ---
 ---
@@ -20,7 +20,7 @@
    - **Database:** [SQL, Microsoft SQL Server Management Studio, Apache Hadoop.]
 ---
 ---
-## 🔥 Cybersecurity Projects
+## 🗃️ Projects
 
 ### 🛡️ SIEM
 - **Project:** **SOC Simulation**
