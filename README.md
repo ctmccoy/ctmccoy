@@ -1,23 +1,5 @@
-#### 👋  Hi, I’m Coner, an aspiring security systems professional with two decades experience in the broadcast technology sector.  I am taking my skills of video and network application administration and applying them to cybersecurity.
-
-##### 🔹  Working on security-focused DevOps and automation, I hold a degree in Computer Science and am eager to apply my skills within an SOC team!
+#### 👋  This is the home of some of my projects.
 ---
----
----
-### 🔹 **Technical Skills:**
-
-   - **Security Tools:** [Splunk, Wireshark, Nessus, Burp Suite, etc.]
-   - **SIEM & Threat Detection:** [Elastic Security, Microsoft Sentinel, Wazuh.]
-   - **Cloud Security:** [AWS Security, Azure Defender.]
-   - **Penetration Testing & Red Teaming:** [Kali Linux, Metasploit, Nmap, BurpSuite, AirCrack-NG, Mimikatz, etc;]
-   - **Forensics & Incident Response:** [Autopsy, Volatility, FTK Imager.]
-   - **Programming/Scripting:** [Python, Bash, PowerShell.]
-
-### 🔹 **Data Science Skills:**
-
-   - **Data Visualization** [Excel, Power BI, Tableau.]
-   - **Statistical Analysis:** [Python, Java, R.]
-   - **Database:** [SQL, Microsoft SQL Server Management Studio, Apache Hadoop.]
 ---
 ---
 ## 🗃️ Projects
