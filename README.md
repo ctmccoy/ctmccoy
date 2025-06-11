@@ -1,4 +1,4 @@
-#### 👋 &nbsp; This is the home of some of my projects.
+## 👋 &nbsp; I am starting my journey within information security, and using Github to stage some of my projects.
 ---
 ---
 ---
@@ -38,3 +38,4 @@
 ---
 ---
 ---
+#### I hope you enjoy my Github, please dont hesitate to contact me with any questions you may have.  I look forward to collaborating on new projects!
