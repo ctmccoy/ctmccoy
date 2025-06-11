@@ -1,4 +1,4 @@
-#### 👋  This is the home of some of my projects.
+#### 👋 &nbsp; This is the home of some of my projects.
 ---
 ---
 ---
